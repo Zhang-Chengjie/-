@@ -1,0 +1,2 @@
+E:\coding\ZCode\ScreenCross\bin\Release\net8.0-windows\win-x64\publish\ScreenCross.pdb
+E:\coding\ZCode\ScreenCross\bin\Release\net8.0-windows\win-x64\publish\ScreenCross.exe
